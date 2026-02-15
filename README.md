@@ -1,2 +1,2 @@
-# AdventOfCode2024
-Solution to advent of code 2024
+# AdventOfCode 2024
+Solutions in Julia of some of the daily problems of [Advent of Code](https://adventofcode.com/) in 2024.
